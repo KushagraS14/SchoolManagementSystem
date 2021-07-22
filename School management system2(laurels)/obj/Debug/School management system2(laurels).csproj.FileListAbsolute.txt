@@ -1,0 +1,210 @@
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\bin\Debug\School management system2(laurels).exe.config
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\bin\Debug\School management system2(laurels).exe
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\bin\Debug\School management system2(laurels).pdb
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School management system2(laurels).csprojAssemblyReference.cache
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Form1.resources
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Properties.Resources.resources
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.GenerateResource.cache
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School management system2(laurels).exe
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School management system2(laurels).pdb
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\bin\Debug\Database1.mdf
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\bin\Debug\Database1_log.ldf
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.APPBody.resources
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.RegistrationUserControl.resources
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.AboutUsUserControl.resources
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ExamsUserControl.resources
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ResultsUserControl.resources
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.StudentUserControl.resources
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.SubjectUserControl.resources
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.TeacherUserControl.resources
+C:\Users\hp\source\repos\School management system2(laurels)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ClassUserControl.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\bin\Debug\Database1.mdf
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\bin\Debug\Database1_log.ldf
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\bin\Debug\School management system2(laurels).exe.config
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\bin\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\bin\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School management system2(laurels).csprojAssemblyReference.cache
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.AboutUsUserControl.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.APPBody.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ClassUserControl.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ExamsUserControl.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Form1.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Properties.Resources.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.RegistrationUserControl.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ResultsUserControl.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.StudentUserControl.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.SubjectUserControl.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.TeacherUserControl.resources
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.GenerateResource.cache
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\schoolmanagementsystem2\school_16\School management system2(laurels)\obj\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\bin\Debug\Database1.mdf
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\bin\Debug\Database1_log.ldf
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\bin\Debug\School management system2(laurels).exe.config
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\bin\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\bin\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School management system2(laurels).csprojAssemblyReference.cache
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.AboutUsUserControl.resources
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.APPBody.resources
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ClassUserControl.resources
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ExamsUserControl.resources
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Form1.resources
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Properties.Resources.resources
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.RegistrationUserControl.resources
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ResultsUserControl.resources
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.StudentUserControl.resources
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.SubjectUserControl.resources
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.TeacherUserControl.resources
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.GenerateResource.cache
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\laurel_25\School management system2(laurels)\obj\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\bin\Debug\Database1.mdf
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\bin\Debug\Database1_log.ldf
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\bin\Debug\School management system2(laurels).exe.config
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\bin\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\bin\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School management system2(laurels).csprojAssemblyReference.cache
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.AboutUsUserControl.resources
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.APPBody.resources
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ClassUserControl.resources
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ExamsUserControl.resources
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Form1.resources
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Properties.Resources.resources
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.RegistrationUserControl.resources
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ResultsUserControl.resources
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.StudentUserControl.resources
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.SubjectUserControl.resources
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.TeacherUserControl.resources
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.GenerateResource.cache
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\laurel_30\School management system2(laurels)\obj\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\bin\Debug\Database1.mdf
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\bin\Debug\Database1_log.ldf
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\bin\Debug\School management system2(laurels).exe.config
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\bin\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\bin\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School management system2(laurels).csprojAssemblyReference.cache
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.AboutUsUserControl.resources
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.APPBody.resources
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ClassUserControl.resources
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ExamsUserControl.resources
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Form1.resources
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Properties.Resources.resources
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.RegistrationUserControl.resources
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ResultsUserControl.resources
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.StudentUserControl.resources
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.SubjectUserControl.resources
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.TeacherUserControl.resources
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.GenerateResource.cache
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\school management system_kushagra\laurel_36\School management system2(laurels)\obj\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\bin\Debug\Database1.mdf
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\bin\Debug\Database1_log.ldf
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\bin\Debug\School management system2(laurels).exe.config
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\bin\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\bin\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School management system2(laurels).csprojAssemblyReference.cache
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.AboutUsUserControl.resources
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.APPBody.resources
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ClassUserControl.resources
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ExamsUserControl.resources
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Form1.resources
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Properties.Resources.resources
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.RegistrationUserControl.resources
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ResultsUserControl.resources
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.StudentUserControl.resources
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.SubjectUserControl.resources
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.TeacherUserControl.resources
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.GenerateResource.cache
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\sql assignments\dbms project(laurel International school)_50\School management system2(laurels)\obj\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\bin\Debug\Database1.mdf
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\bin\Debug\Database1_log.ldf
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\bin\Debug\School management system2(laurels).exe.config
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\bin\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\bin\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School management system2(laurels).csprojAssemblyReference.cache
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.AboutUsUserControl.resources
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.APPBody.resources
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ClassUserControl.resources
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ExamsUserControl.resources
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Form1.resources
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Properties.Resources.resources
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.RegistrationUserControl.resources
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ResultsUserControl.resources
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.StudentUserControl.resources
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.SubjectUserControl.resources
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.TeacherUserControl.resources
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.GenerateResource.cache
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\dbms project _55(final)\School management system2(laurels)\obj\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\bin\Debug\Database1.mdf
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\bin\Debug\Database1_log.ldf
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\bin\Debug\School management system2(laurels).exe.config
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\bin\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\bin\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School management system2(laurels).csprojAssemblyReference.cache
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.AboutUsUserControl.resources
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.APPBody.resources
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ClassUserControl.resources
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ExamsUserControl.resources
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Form1.resources
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Properties.Resources.resources
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.RegistrationUserControl.resources
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ResultsUserControl.resources
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.StudentUserControl.resources
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.SubjectUserControl.resources
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.TeacherUserControl.resources
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.GenerateResource.cache
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\dbms_kushagra_65\School management system2(laurels)\obj\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\bin\Debug\Database1.mdf
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\bin\Debug\Database1_log.ldf
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\bin\Debug\School management system2(laurels).exe.config
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\bin\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\bin\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School management system2(laurels).csprojAssemblyReference.cache
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.AboutUsUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.APPBody.resources
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ClassUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ExamsUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Form1.resources
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Properties.Resources.resources
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.RegistrationUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ResultsUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.StudentUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.SubjectUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.TeacherUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.GenerateResource.cache
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\DBMS_70\School management system2(laurels)\obj\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\bin\Debug\Database1.mdf
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\bin\Debug\Database1_log.ldf
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\bin\Debug\School management system2(laurels).exe.config
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\bin\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\bin\Debug\School management system2(laurels).pdb
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School management system2(laurels).csprojAssemblyReference.cache
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.AboutUsUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.APPBody.resources
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ClassUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ExamsUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Form1.resources
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.Properties.Resources.resources
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.RegistrationUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.ResultsUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.StudentUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.SubjectUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School_management_system2_laurels_.TeacherUserControl.resources
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.GenerateResource.cache
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School management system2(laurels).csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School management system2(laurels).exe
+C:\Users\hp\Desktop\DBMS_70\dbms_final\School management system2(laurels)\obj\Debug\School management system2(laurels).pdb

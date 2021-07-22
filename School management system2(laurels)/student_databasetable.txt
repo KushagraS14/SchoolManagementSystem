@@ -1,0 +1,13 @@
+CREATE TABLE [dbo].[student] (
+    [st_id]       INT          NOT NULL,
+    [st_name]     VARCHAR (40) NOT NULL,
+    [st_email]    VARCHAR (40) NOT NULL,
+    [st_phone_no] BIGINT       NOT NULL,
+    [st_age]      INT          NOT NULL,
+    [st_gender]   VARCHAR (10) NOT NULL,
+    [reg_id]      BIGINT       NULL,
+    PRIMARY KEY CLUSTERED ([st_id] ASC),
+    UNIQUE NONCLUSTERED ([st_email] ASC),
+    UNIQUE NONCLUSTERED ([st_phone_no] ASC),
+    CONSTRAINT [Registration_id] FOREIGN KEY ([reg_id]) REFERENCES [dbo].[st_registration] ([Reg_id])
+);
